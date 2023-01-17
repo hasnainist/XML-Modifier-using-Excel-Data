@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PTJOB>
+  <ROBOT>None</ROBOT>
+  <ARCHIVE>
+    <SIZE>0</SIZE>
+    <DESCRIPTION>
+    </DESCRIPTION>
+    <SUBMITTED_BY>
+    </SUBMITTED_BY>
+    <SUBMITTED_TIME>
+    </SUBMITTED_TIME>
+  </ARCHIVE>
+  <JOB_PROPERTIES>
+    <JOB_NAME>C:\Users\james\OneDrive\Desktop\New folder\AAHAN N THAKAR .ptpx</JOB_NAME>
+    <ROBOT_ID>0</ROBOT_ID>
+    <AUTHOR>LAPTOP-QDCTH8F1</AUTHOR>
+    <COPIES>1</COPIES>
+    <JOB_TYPE>0</JOB_TYPE>
+    <INT_JOB_TYPE>1</INT_JOB_TYPE>
+  </JOB_PROPERTIES>
+  <PRINTING>
+    <FILE>C:\ProgramData\PTI\PTPublisher\DefaultTemplate.std</FILE>
+    <MERGE_DISC_DESC>AAHAN N THAKAR 
+</MERGE_DISC_DESC>
+    <MERGE_DISC_TITLE>AAHAN N THAKAR 
+AAHAN N THAKAR 
+</MERGE_DISC_TITLE>
+    <MERGE_FIELDS />
+    <INNER_DIAMETER>230</INNER_DIAMETER>
+    <OUTER_MARGIN>9</OUTER_MARGIN>
+    <PRINT_QUALITY>4</PRINT_QUALITY>
+    <COLOR_TYPE>0</COLOR_TYPE>
+    <COLOR_TABLE>0</COLOR_TABLE>
+    <SATURATION>100</SATURATION>
+    <CART_TYPE>2</CART_TYPE>
+    <MEDIA>Custom</MEDIA>
+  </PRINTING>
+  <RECORDING>
+    <SETTINGS>
+      <WRITE_SPEED>1000</WRITE_SPEED>
+      <SPAN_DISCS>False</SPAN_DISCS>
+      <VERIFY>False</VERIFY>
+      <PROTECTED_IMAGE>False</PROTECTED_IMAGE>
+      <DELETE_IMAGE>False</DELETE_IMAGE>
+      <CLOSE_DISC>True</CLOSE_DISC>
+      <SAO>False</SAO>
+      <TEST_RECORD>False</TEST_RECORD>
+      <MODE2>False</MODE2>
+      <SETNOW>False</SETNOW>
+      <FILESYS>2</FILESYS>
+      <FILESYS_BRIDGE>1</FILESYS_BRIDGE>
+      <PRINT_FIRST>False</PRINT_FIRST>
+      <PRINT_REJECT>False</PRINT_REJECT>
+      <DISC_TYPE>CD</DISC_TYPE>
+    </SETTINGS>
+    <SOURCE>
+      <FILES>
+        <FILE>C:\Users\james\OneDrive\Desktop\New folder\BVI CD Coverletter - Proof1.mp3</FILE>
+        <PREGAP>150</PREGAP>
+        <FILE>C:\Users\james\Downloads\Maximus English Audio\AAHAN_N_THAKAR_ORIG_LT_1095BO_EN_AUDIO CD-2_12012022_Part1_Track01.mp3</FILE>
+        <PREGAP>150</PREGAP>
+        <FILE>C:\Users\james\OneDrive\Desktop\New folder\Disclaimer note - Proof1.mp3</FILE>
+        <PREGAP>150</PREGAP>
+      </FILES>
+    </SOURCE>
+    <DESTINATION />
+  </RECORDING>
+</PTJOB>
